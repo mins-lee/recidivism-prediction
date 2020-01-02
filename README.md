@@ -4,6 +4,7 @@ This repository documents the project Minseon Lee and Aaron Dunmore completed in
 
 This project was completed as part of [Data Mining](https://www.andrew.cmu.edu/user/achoulde/95791/index.html) taught by [Prof. Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/).
 
+
 ### Instructions
 
 This repository contains four folders:
