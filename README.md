@@ -11,7 +11,7 @@ This repository contains four folders:
 
 Folders | Description
 -- | ------
-`Notebooks` | Final report. You can execute it without having to run any other code
+`Notebook` | Final report. You can execute it without having to run any other code
 `Data` | Processed compas.db and .csv files used by our models 
 `Cache` | Trained models as R objects. It will save time when you re-excute our notebook
 `Data_Processing` | .R and .sql files used to generate processed compas.db and .csv files in `Data` 
@@ -22,7 +22,7 @@ You can also rebuild our project from scratch:
 2. Open [compas.db](https://github.com/propublica/compas-analysis/blob/master/compas.db) in a sqlite manager, and execute `Data_Processing`/data_processing.sql. We used [DB Browser for SQLite](https://sqlitebrowser.org/). This will create a number of variables used by our models in the database.
 3. Execute `Data_Processing`/data_export.R. Your working directory should be set to the 
    top level of this folder. This will form several .csv files used by our analysis.
-4. Execute `Notebooks`/final_report.Rmd. Your working directory should be set to `Notebooks`.
+4. Execute `Notebook`/final_report.Rmd. Your working directory should be set to `Notebook`.
    
 If you would like to train all models as new, delete the contents of `Cache`. 
 
