@@ -1,6 +1,6 @@
 # Recidivism Prediction
 
-This repository documents the project Minseon Lee and Aaron Dunmore completed in the fall of 2019. We developed risk assessment instruments (RAIs) predicting two-year recidivism in Broward County, FL, using the data released by [ProPublica](https://github.com/propublica/compas-analysis). We evaluated the predictive performance of our models and compared it to the performance of the RAI used by the courts in Broward County previously. In addition, we investigated whether our RAIs are equally predictive across race/ethnicity, age, and sex groups. 
+This repository documents the project [Aaron Dunmore](https://github.com/adunmore) and I completed in the fall of 2019. We developed risk assessment instruments (RAIs) predicting two-year recidivism in Broward County, FL, using the data released by [ProPublica](https://github.com/propublica/compas-analysis). We evaluated the predictive performance of our models and compared it to the performance of the RAI used by the courts in Broward County previously. In addition, we investigated whether our RAIs are equally predictive across race/ethnicity, age, and sex groups. 
 
 This project was completed as part of [Data Mining](https://www.andrew.cmu.edu/user/achoulde/95791/index.html) taught by [Prof. Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/).
 
