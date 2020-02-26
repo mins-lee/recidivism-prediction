@@ -1,7 +1,7 @@
 Predicting Recidivism in Broward County
 ================
 
-*(Aaron Dunmore)(https://github.com/adunmore/Recidivism_Risk_Final_Project) and [Minseon
+*[Aaron Dunmore](https://github.com/adunmore/Recidivism_Risk_Final_Project) and [Minseon
 Lee](https://github.com/mins-lee/recidivism-prediction)*
 
 Our models predict the risk of recidivism and of violent recidivism
